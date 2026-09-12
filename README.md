@@ -1,22 +1,21 @@
 # Sathwik Kanukuntla - Portfolio
 
-Personal portfolio website for Sathwik Kanukuntla, a CSE (AI & ML) student at CMR Institute of Technology, Hyderabad.
+This is my Personal portfolio website showcasing my skills, projects, certifications, internship experience, and achievements.
 
-## Built with
-- HTML
-- CSS
-- JavaScript
+## Skills
+Python, C, HTML, CSS, JavaScript, AI, Machine Learning
 
-## Included
-- Responsive dark portfolio design
-- Smooth scroll and reveal transitions
-- HireEase Figma prototype link and UI screenshots
-- Object-Based Forgery Detection project screenshots and GitHub link
-- Resume download
-- Experience, certifications, skills and contact sections
+## Projects
+- **HireEase** – Service booking platform designed in Figma and developed using HTML, CSS, JavaScript, Python, Flask and SQL.
+- **Human Behaviour Recognition** – Human activity recognition using Multiscale CNN.
+- **Object Based Forgery Detection** – Deep learning system for detecting video forgeries using CNN.
 
-## Run locally
-Open `index.html` in a browser.
+## Internship
+**Geonixa – Artificial Intelligence Intern**  
+3-month online internship.
 
-## Publish
-This project can be published using GitHub Pages or Vercel.
+## Links
+- Portfolio: https://sathhwikk.github.io/sathwik-portfolio/
+- GitHub: https://github.com/sathhwikk
+- LinkedIn: https://www.linkedin.com/in/sathwik-kanukuntla-8a4326291
+- Email: sathwikkanukuntla2@gmail.com
