@@ -141,3 +141,36 @@ footer { width: min(var(--max), calc(100% - 40px)); margin: 0 auto; padding: 25p
 .lightbox-close { position: absolute; top: 18px; right: 24px; width: 42px; height: 42px; border-radius: 50%; border: 1px solid rgba(255,255,255,.15); background: rgba(255,255,255,.08); color: var(--text); font-size: 28px; line-height: 1; cursor: pointer; transition: transform .25s ease, background .25s ease; }
 .lightbox-close:hover { transform: rotate(90deg); background: rgba(255,255,255,.15); }
 @keyframes lightboxIn { from { opacity: 0; } to { opacity: 1; } }
+
+
+
+@media (max-width: 500px) {
+  .contact-box {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 28px 16px;
+    overflow: hidden;
+  }
+
+  .contact-box h2 {
+    font-size: 32px;
+  }
+
+  .contact-box > p {
+    max-width: 100%;
+    padding: 0 4px;
+  }
+
+  .email-link {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 0 4px;
+    font-size: 14px;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    white-space: normal;
+  }
+}
